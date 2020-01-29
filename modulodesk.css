@@ -1,0 +1,71 @@
+.gran-caja {
+    background-color: rgba(90, 116, 231, 0.973);
+    float: left;
+    width: 100%;
+    height: 300%;  
+    margin-top: 4em;
+    margin-bottom: 2cm;  
+}
+.gran-caja img {
+    width: 100%;
+    height: 400px;
+    
+    
+}
+
+.caja1{
+    width: 35%;
+    position: absolute;
+    float: left;
+}
+.caja1 h1 {
+    padding: 0px 35px;
+    font-size: 40px;
+}
+.caja2 {
+    float: right;
+    width: 50%;
+    height: 500px;
+    
+}
+.boton button{
+    width: 200px;
+    height: 50px;
+    top: 520px;
+    position: absolute;
+    background-color: rgb(59, 199, 185);
+    float: left;
+}
+
+.black-box {
+    float: left;
+    width: 10%;
+    border: 1px solid black;
+    margin-right: 30px;
+}
+.desc{
+    height: 20px;
+}
+.black-box img {
+    width: 100%;
+}
+
+    .cuadros-multiples {
+        display: block;
+        float: left;
+        width: 100%;
+    }
+    
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Muli',sans-serif;
+}
+
+
+
